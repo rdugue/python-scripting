@@ -1,2 +1,2 @@
 # python-scripting
-A colof my random python scripts in one place 
+A colection of my random python scripts in one place 
